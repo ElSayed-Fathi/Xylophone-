@@ -1,0 +1,212 @@
+/*
+*
+            SizedBox(
+              height: 20,
+            ),
+
+            Expanded(
+              child: Container(
+                decoration: BoxDecoration(
+                  color: Colors.teal,
+                  borderRadius: BorderRadius.circular(30),
+                ),
+                child: MaterialButton(
+                  onPressed: (){
+                  playsound(1);
+                    },
+                  child: Text(
+                    'سوره الفاتحه',
+                  style: TextStyle(
+                    fontSize: 30,
+                    fontWeight: FontWeight.bold,
+                color: Colors.white,
+                  ),
+                  ),
+                ),
+              ),
+            ),
+
+
+            SizedBox(
+              height: 20,
+            ),
+            Expanded(
+              child: Container(
+                decoration: BoxDecoration(
+                  color: Colors.teal,
+                  borderRadius: BorderRadius.circular(30),
+                ),
+
+                child: MaterialButton(
+                 // color: Colors.black,
+
+                  onPressed: (){
+                  playsound(2);
+
+                  },
+                  child: Text(
+                    'سوره الناس',
+                    style: TextStyle(
+                      fontSize: 30,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.white,
+                      //    backgroundColor: Colors.indigo,
+
+                    ),),
+
+                ),
+              ),
+            ),
+            SizedBox(
+              height: 20,
+            ),
+            Expanded(
+              child: Container(
+                decoration: BoxDecoration(
+                  color: Colors.teal,
+                  borderRadius: BorderRadius.circular(30),
+                ),
+
+                child: MaterialButton(
+                  //color: Colors.blue,
+
+                  onPressed: (){
+                  playsound(3);
+
+                  },
+                  child: Text(
+                    'سوره الفلق',
+                    style: TextStyle(
+                      fontSize: 30,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.white,
+                      //    backgroundColor: Colors.indigo,
+
+                    ),),
+
+                ),
+
+              ),
+            ),
+            SizedBox(
+              height: 20,
+            ),
+            Expanded(
+              child: Container(
+                decoration: BoxDecoration(
+                  color: Colors.teal,
+                  borderRadius: BorderRadius.circular(30),
+                ),
+
+                child: MaterialButton(
+                  //color: Colors.black,
+
+                  onPressed: (){
+                    playsound(4);
+
+                  },
+                  child: Text(
+                    'سوره الاخلاص',
+                    style: TextStyle(
+                      fontSize: 30,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.white,
+                      //    backgroundColor: Colors.indigo,
+
+                    ),),
+
+                ),
+              ),
+            ),
+            SizedBox(
+              height: 20,
+            ),
+            Expanded(
+              child: Container(
+                decoration: BoxDecoration(
+                  color: Colors.teal,
+                  borderRadius: BorderRadius.circular(30),
+                ),
+
+                child: MaterialButton(
+                  //color: Colors.black,
+
+                  onPressed: (){
+                   playsound(5);
+                  },
+                  child: Text(
+                    'سوره النصر',
+                    style: TextStyle(
+                      fontSize: 30,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.white,
+                      //    backgroundColor: Colors.indigo,
+
+                    ),),
+
+                ),
+              ),
+            ),
+            SizedBox(
+              height: 20,
+            ),
+            Expanded(
+              child: Container(
+                decoration: BoxDecoration(
+                  color: Colors.teal,
+                  borderRadius: BorderRadius.circular(30),
+                ),
+
+                child: MaterialButton(
+                  //color: Colors.black,
+
+                  onPressed: (){
+                  playsound(6);
+
+                  },
+                  child: Text(
+                    'سوره الكوثر',
+                    style: TextStyle(
+                      fontSize: 30,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.white,
+                      //    backgroundColor: Colors.indigo,
+
+                    ),),
+
+                ),
+              ),
+            ),
+            SizedBox(
+              height: 20,
+            ),
+            Expanded(
+              child: Container(
+                decoration: BoxDecoration(
+                  color: Colors.teal,
+                  borderRadius: BorderRadius.circular(30),
+                ),
+
+                child: MaterialButton(
+                  //color: Colors.black,
+
+                  onPressed: (){
+                   playsound(7);
+
+                  },
+                  child: Text(
+                    'سوره العصر ',
+                    style: TextStyle(
+                      fontSize: 30,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.white,
+                      //    backgroundColor: Colors.indigo,
+
+                    ),),
+
+                ),
+              ),
+            ),
+            SizedBox(
+              height: 20,
+            ),*/
